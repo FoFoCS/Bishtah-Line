@@ -51,9 +51,6 @@ The project also included:
 ### Product Details
 ![Product Details](product-details.PNG)
 
-### Shopping Cart
-![Shopping Cart](cart.PNG)
-
 ### Custom Abaya
 ![Custom Abaya](custom-abaya.PNG)
 
