@@ -46,7 +46,7 @@ The project also included:
 ## Screenshots
 
 ### Home Page
-![Home Page](home.PNG)
+![Home Page](home.png)
 
 ### Product Details
 ![Product Details](product-details.PNG)
